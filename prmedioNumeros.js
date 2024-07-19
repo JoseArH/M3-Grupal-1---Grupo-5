@@ -8,4 +8,5 @@ function calculateSumAndAverage() {
         <p>Promedio: ${average.toFixed(2)}</p>
     `;
     document.getElementById('numbersResult').innerHTML = result;
+    
 }
