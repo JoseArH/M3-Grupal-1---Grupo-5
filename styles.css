@@ -21,6 +21,9 @@ body {
 }
 h1 {
     color: #ee3f09;
+    background-color: #e9ecef;
+    border-radius: 1rem;
+    margin-bottom:1em ; /* modificación del H1 */
 }
 
 h2 {
