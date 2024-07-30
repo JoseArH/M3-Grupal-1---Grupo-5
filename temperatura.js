@@ -1,3 +1,6 @@
+import  './diasAnos';
+import  './prmedioNumeros';
+
 function convertTemperature() {
     const celsius = parseFloat(document.getElementById('celsius').value);
     const kelvin = celsius + 273.15;
